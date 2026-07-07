@@ -1,4 +1,4 @@
-# MariaDB Setup and Configuration Guide for Windows
+# MariaDB Setup and Configuration Guide for windows
 
 This guide explains how to set up MariaDB, create a database, and Create Database User
 
@@ -88,4 +88,4 @@ EXIT;
 4. DB_PORT
 5. DB_NAME
 
-CHANGES DONE BY DEV
+CH

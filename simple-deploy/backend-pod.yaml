@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
     - name: backend-app
-      image: shubhamjambhulkar07/easy-backend:latest
+      image: shubhamjambhulkar07/cdec-b4-backend
       ports:
         - containerPort: 8080
 
